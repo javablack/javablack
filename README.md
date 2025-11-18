@@ -10,7 +10,7 @@
 <!-- ABOUT ME -->
 ## 🌍 About Me
 
-I’m **Olawale Ajayi**, also known as **Javablack** — a software engineer in training passionate about solving real problems through technology.
+I’m **Olawale Ajayi**, also known as **Javablack.** I am a software engineer in training, passionate about solving real problems through technology.
 
 My interests live at the intersection of creativity, engineering, and impact:
 
@@ -20,7 +20,7 @@ My interests live at the intersection of creativity, engineering, and impact:
 - 🎬 **Cinematography, 3D art & storytelling**  
 - ⚙️ **Systems engineering & complex software design**  
 
-I’m on a long-term journey to become a **Senior Software Engineer** skilled in:
+I am on a long-term journey to become a **Senior Software Engineer** skilled in:
 
 - Web technologies  
 - Systems-level programming  
@@ -49,7 +49,7 @@ Digital security · Network defense · Threat analysis basics
 I’m also learning:
 
 - C, C++, Java, Ruby  
-- 3D development (Blender, Unreal fundamentals)  
+- 3D development (Maya, Blender, Unreal fundamentals)  
 - Systems programming and hardware-level thinking  
 - Advanced web architecture  
 
