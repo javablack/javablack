@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vR7f4E7pZ8ZC1Ic/giphy.gif" width="120px" alt="Hi Wave GIF" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" />
   
   <h1>Hi, I'm <span style="color:#4CAF50;">Olawale Ajayi</span> 👋</h1>
   <h3>Software Engineer (in training) • ALX Backend • ALX Frontend • Cybersecurity • Systems Engineering • 3D Art</h3>
