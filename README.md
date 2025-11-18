@@ -133,7 +133,7 @@ Solving hard problems → delivering high-value work.
 ---
 
 <div align="center">
-  <h3>🚀 Growing into a world-class software engineer — one repo at a time.</h3>
+  <h3> Growing into a world-class software engineer — one repo at a time.</h3>
   <em>Always learning. Always building.</em>
 </div>
 
