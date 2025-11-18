@@ -8,17 +8,17 @@
 
 
 <!-- ABOUT ME -->
-## 🌍 About Me
+##  About Me
 
 I’m **Olawale Ajayi**, also known as **Javablack.** I am a software engineer in training, passionate about solving real problems through technology.
 
 My interests live at the intersection of creativity, engineering, and impact:
 
-- 🎮 **Game development & interactive experiences**  
-- 🌿 **Sustainability and environmental preservation**  
-- 🏥 **Medical technology for accessible, data-driven healthcare in Nigeria**  
-- 🎬 **Cinematography, 3D art & storytelling**  
-- ⚙️ **Systems engineering & complex software design**  
+-  **Game development & interactive experiences**  
+-  **Sustainability and environmental preservation**  
+-  **Medical technology for accessible, data-driven healthcare in Nigeria**  
+-  **Cinematography, 3D art & storytelling**  
+-  **Systems engineering & complex software design**  
 
 I am on a long-term journey to become a **Senior Software Engineer** skilled in:
 
@@ -33,17 +33,17 @@ I want to build **useful, innovative, and financially rewarding** solutions.
 ---
 
 <!-- WHAT I DO -->
-## 💼 What I'm Currently Doing
+##  What I'm Currently Doing
 
 I’m actively studying across 3 ALX programs:
 
-### 🚀 ALX Backend Engineering  
+###  ALX Backend Engineering  
 Python · C · APIs · Databases · Linux · System design
 
-### 🎨 ALX Frontend Engineering  
+###  ALX Frontend Engineering  
 HTML · CSS · JavaScript · React · Responsive design
 
-### 🔐 ALX Cybersecurity  
+###  ALX Cybersecurity  
 Digital security · Network defense · Threat analysis basics
 
 I’m also learning:
@@ -57,26 +57,26 @@ I’m also learning:
 ---
 
 <!-- GOALS -->
-## 🎯 What I Aim to Build in My Career
+##  What I Aim to Build in My Career
 
 I’m preparing for roles and projects in:
 
-### 🧠 **Systems Engineering & Low-Level Development**
+###  **Systems Engineering & Low-Level Development**
 Infrastructure tools, hardware-related software, CLI tools.
 
-### 🌐 **Complex Web Development**
+###  **Complex Web Development**
 Multi-layer applications, data-driven SaaS platforms.
 
-### 🌍 **Environmental Sustainability Technology**
+###  **Environmental Sustainability Technology**
 Monitoring systems, smart environmental tools.
 
-### 🏥 **Nigerian Healthcare Technology**
+###  **Nigerian Healthcare Technology**
 Low-cost, accessible, data-centered medical applications.
 
-### 🎨 **Creative Tech Projects**
+###  **Creative Tech Projects**
 Cinematics, 3D world tools, story-driven digital experiences.
 
-### 💸 **High-Earning Engineering Specialization**
+###  **High-Earning Engineering Specialization**
 Solving hard problems → delivering high-value work.
 
 
@@ -98,11 +98,11 @@ Solving hard problems → delivering high-value work.
 <!-- PROJECT TYPES -->
 ## 🛠️ Projects I'm Currently (or Soon) Working On
 
-- 🌍 Environmental sustainability monitoring tool  
-- 🏥 Nigerian health-access mini-platform (data-driven)  
-- 🖼️ Browser extension (declutter and productivity tools)  
-- 🌐 Full-stack ALX portfolio projects (frontend + backend)  
-- ⚙️ Systems-focused tools (CLI utilities, memory tools, scrapers)  
+-  Environmental sustainability monitoring tool  
+-  Nigerian health-access mini-platform (data-driven)  
+-  Browser extension (declutter and productivity tools)  
+-  Full-stack ALX portfolio projects (frontend + backend)  
+-  Systems-focused tools (CLI utilities, memory tools, scrapers)  
 
 
 ---
