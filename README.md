@@ -29,6 +29,19 @@ I am on a long-term journey to become a **Senior Software Engineer** skilled in:
 
 I want to build **useful, innovative, and financially rewarding** solutions.
 
+---
+
+<!-- STATS / BADGES -->
+## 📊 GitHub Highlights
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javablack&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javablack&layout=compact&theme=tokyonight)
+
+</div>
+
 
 ---
 
@@ -100,23 +113,8 @@ Solving hard problems → delivering high-value work.
 
 -  Environmental sustainability monitoring tool  
 -  Nigerian health-access mini-platform (data-driven)  
--  Browser extension (declutter and productivity tools)  
 -  Full-stack ALX portfolio projects (frontend + backend)  
 -  Systems-focused tools (CLI utilities, memory tools, scrapers)  
-
-
----
-
-<!-- STATS / BADGES -->
-## 📊 GitHub Highlights
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javablack&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javablack&layout=compact&theme=tokyonight)
-
-</div>
 
 
 ---
