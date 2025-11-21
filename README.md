@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo1eW9wM3RkeW1obmliYXExaGJsempneXljaXlzcXdjejllZnJwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNPNqI81MvDQ4D4n6D/giphy.gif" width="200px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo1eW9wM3RkeW1obmliYXExaGJsempneXljaXlzcXdjejllZnJwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNPNqI81MvDQ4D4n6D/giphy.gif" width="400px" />
  
   <h1>Hi, I'm <span style="color:#4CAF50;">Olawale Ajayi</span> 👋</h1>
   <h3>Software Engineer (in training) • ALX Backend • ALX Frontend • Cybersecurity • Systems Engineering • 3D Art</h3>
